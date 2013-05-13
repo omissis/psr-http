@@ -1,0 +1,19 @@
+{
+    "name": "omissis/psr-http",
+    "description": "PSR HTTP Specification",
+    "authors": [
+        {
+            "name": "Claudio Beatrice",
+            "email": "claudi0.beatric3@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+    },
+    "autoload": {
+        "psr-0": {
+            "Psr\\Http": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
