@@ -1,6 +1,6 @@
 <?php
 
-namespace PSR\Http\Exception\InvalidArgumentException;
+namespace Psr\Http\Exception;
 
 class InvalidArgumentException extends \InvalidArgumentException
 {
